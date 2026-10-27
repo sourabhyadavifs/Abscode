@@ -1,0 +1,6 @@
+{
+  "name": "Abscode Quality",
+  "description": "4M Change Management prototype for manufacturing companies to record, review, approve, verify and close 4M changes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
